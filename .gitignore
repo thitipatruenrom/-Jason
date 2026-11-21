@@ -1,0 +1,6 @@
+# เอกสารงาน/ข้อมูลลูกความ — ห้าม commit ขึ้น git
+outputs/
+
+# ระบบ
+.DS_Store
+.claude/settings.local.json
